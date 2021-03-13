@@ -5,6 +5,8 @@ I'm a 23 y/o front-end dev working with JS/Vue.js, but netsec is what I'm really
 
 🌱 I’m currently learning... Python and C + Reverse Engineering and Exploitation.
 
+This repo (czarnero) contains solutions to questions, problems and exercises in a variety of languages.
+
 <!--
 **czarnero/czarnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
