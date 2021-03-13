@@ -1,9 +1,7 @@
 ### Hi there 👋
 I'm a 23 y/o front-end dev working with JS/Vue.js, but netsec is what I'm really enthusiastic about.
 
-🔭 I’m currently working on... preparing for University and building a portfolio website!
-
-🌱 I’m currently learning... Python and C + Reverse Engineering and Exploitation.
+🌱 I’m currently learning how to work with Python 3 and C + a variety of netsec topics like YARA.
 
 This repo (czarnero) contains solutions to questions, problems and exercises in a variety of languages.
 
