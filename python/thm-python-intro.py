@@ -1,6 +1,7 @@
 from base64 import *
 # 5x decode base16, 5x decode base32, 5x decode base64
 # solves THM's Intro to Python challenge (Task 12) but allows for any file to be read, not just encodedflag.txt
+# solved: 13/03/2021
 
 user_input = input("Enter filename ")
 flag = open(user_input, "r").read()
